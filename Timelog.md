@@ -18,4 +18,6 @@
 ### 27 September 2021
  - 1 hour - Writing inital contact email to Graham McDonald, creating [GitHub repository](https://github.com/JackMcKechnie/Leveraging-Language-Formality-for-Sensitivity-Classification) , reading project moodle and gathering ideas. 
 
-
+### 27 September 2021
+ - 1 hour - [Reading](https://cs.brown.edu/people/epavlick/papers/formality.pdf) and researching 
+ - 1 hour - Project session 1
