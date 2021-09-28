@@ -21,3 +21,4 @@
 ### 28 September 2021
  - 1 hour - [Reading](https://cs.brown.edu/people/epavlick/papers/formality.pdf) and researching 
  - 1 hour - Project session 1
+ - 1 hour - Project session 2
