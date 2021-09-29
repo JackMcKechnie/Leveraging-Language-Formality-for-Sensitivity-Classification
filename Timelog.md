@@ -22,3 +22,7 @@
  - 1 hour - [Reading](https://cs.brown.edu/people/epavlick/papers/formality.pdf) and researching 
  - 1 hour - Project session 1
  - 1 hour - Project session 2
+
+### 29 September 2021
+ - 0.5 hours - [Reading](https://aclanthology.org/C10-2011.pdf)
+ - 1.5 hours - Experimenting with and exploring the dataset from [here](https://cs.brown.edu/people/epavlick/papers/formality.pdf)
