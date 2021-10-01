@@ -9,7 +9,7 @@ def f_score(sentence):
     f_count = 0
     c_count = 0
 
-    # Nouns, adjectives, prepositions and articles. Does not yet include articles.
+    # Nouns, adjectives, prepositions and articles. Does not yet include articles
     f_types = ["NN", "NNS", "JJ", "JJR", "JJS", "IN"]
     #Pronouns, verbs, adverbs and interjections
     c_types = ["PRP", "PRP$", "WP", "WP$", "VB", "VBD",
