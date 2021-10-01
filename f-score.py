@@ -1,10 +1,13 @@
 import nltk
+from nltk.tokenize import RegexpTokenizer
 
 
 def f_score(sentence):
 
-    tokens = nltk.word_tokenize(sentence)
-    pos = nltk.pos_tag(tokens)
+    #Remove punctuation from the sentence when tokenising
+    tokenizer = RegexpTokenizer(r'\w+')
+    sentence = tokenizer.tokenize(sentence)    
+    pos = nltk.pos_tag(sentence)
 
     f_count = 0
     c_count = 0
@@ -24,6 +27,5 @@ def f_score(sentence):
     f_score = (f_count - c_count + 100) / 2
     
     return f_score
-
 
 
