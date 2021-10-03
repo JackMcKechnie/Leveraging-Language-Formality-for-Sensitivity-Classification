@@ -30,3 +30,6 @@
 
 ### 1 October 2021
  - 1.5 hours - Creating F-Score and adjective density functions
+
+### 3 October 2021
+ - 1 hour - Preparation for 3/10/21 meeting
