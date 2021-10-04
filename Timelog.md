@@ -33,3 +33,6 @@
 
 ### 3 October 2021
  - 1 hour - Preparation for 3/10/21 meeting
+
+### 4 October 2021
+ - 0.5 hours - Weekly meeting
