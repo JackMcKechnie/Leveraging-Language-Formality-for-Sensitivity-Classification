@@ -41,3 +41,7 @@
 ### 5 October 2021
  - 1.5 hours - Reading from Graham McDonald's suggested reading list and experimenting with spellcheck and grammar check vs formality score correlation
  - 2 hours - Reading,  collating a list of features and what papers used which ones, thinking about using readability scores, thinking about adverb usage and learning about K-fold cross validation
+
+### 6 October 2021
+ - 1 hour - Summarising papers for easier access later on
+ - 1 hour - Reading and experimenting with SciKit Learn's MLPRegressor
