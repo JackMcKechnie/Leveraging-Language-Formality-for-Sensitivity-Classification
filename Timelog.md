@@ -45,3 +45,10 @@
 ### 6 October 2021
  - 1 hour - Summarising papers for easier access later on
  - 1 hour - Reading and experimenting with SciKit Learn's MLPRegressor
+
+### 7 October
+- 0.5 hours - Creation of document for next week's meeting 
+- 0.5 hours - Reading of how to collect some of the features
+
+### 9 October 2021
+ - 3 hours - Collecting as many of the extended dataset features as possible for now. Created and exported heatmap and table of corelation between the features. Reran the MLP regressor and got a score of 0.9986938379261381. Unsure of this score. 
