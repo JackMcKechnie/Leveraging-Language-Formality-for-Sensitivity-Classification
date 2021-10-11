@@ -54,3 +54,6 @@
 
 ### 9 October 2021
  - 3 hours - Collecting as many of the extended dataset features as possible for now. Created and exported heatmap and table of corelation between the features. Reran the MLP regressor and got a score of 0.9986938379261381. Unsure of this score. 
+
+## 11 October 2021
+ - 0.5 hours - Weekly meeting
