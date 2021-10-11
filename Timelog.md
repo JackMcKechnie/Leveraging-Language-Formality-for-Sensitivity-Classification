@@ -34,6 +34,8 @@
 ### 3 October 2021
  - 1 hour - Preparation for 3/10/21 meeting
 
+## Week 3
+
 ### 4 October 2021
  - 0.5 hours - Weekly meeting
  - 1.5 hours - Reading from Graham McDonald's suggested reading list and experimenting with spellcheck vs formality score correlation
