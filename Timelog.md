@@ -55,5 +55,16 @@
 ### 9 October 2021
  - 3 hours - Collecting as many of the extended dataset features as possible for now. Created and exported heatmap and table of corelation between the features. Reran the MLP regressor and got a score of 0.9986938379261381. Unsure of this score. 
 
-## 11 October 2021
+## Week 4
+
+### 11 October 2021
  - 0.5 hours - Weekly meeting
+
+### 12 October 2021
+ - 3 hours - Creating table of models and their score for a baseline
+
+### 14 October 2021
+ - 1 hour - Reading about clustering
+
+### 15 October 2021
+ - 3 Hours - Clustering and reading about topic modelling
