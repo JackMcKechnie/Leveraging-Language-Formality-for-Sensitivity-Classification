@@ -68,3 +68,11 @@
 
 ### 15 October 2021
  - 3 Hours - Clustering and reading about topic modelling
+
+## Week 5
+
+### 18 October 2021
+ - 2 Hours - Writing first topic modelling code
+
+### 19 October 2021
+ - 0.5 Hours - Weekly meeting
