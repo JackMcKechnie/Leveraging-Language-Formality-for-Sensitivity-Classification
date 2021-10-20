@@ -22,7 +22,7 @@ def adjective_density(sentence):
             adjective_count += 1
 
     #Calculate adjective density
-    adjective_density = (adjective_count / len(pos)) * 100
+    adjective_density = (adjective_count / len(sentence)) * 100
 
     return adjective_density
 
