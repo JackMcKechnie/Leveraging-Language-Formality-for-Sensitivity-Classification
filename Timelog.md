@@ -76,3 +76,6 @@
 
 ### 19 October 2021
  - 0.5 Hours - Weekly meeting
+
+### 20 October 2021
+ - 3 hours - Gathering together features categorised by lexical, scores, reading and NLP. Most done but the next ones are more difficult to collect. 
