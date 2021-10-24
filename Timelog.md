@@ -81,7 +81,7 @@
  - 3 hours - Gathering together features categorised by lexical, scores, reading and NLP. Most done but the next ones are more difficult to collect. 
 
 ### 21 October 2021
- - 5 hours
+ - 5 hours -
            - Gathering together the other features possible <br>
            - Making sure that there is justification for all of them <br>
            - Making function to run all regression approaches and create table of the results <br>
