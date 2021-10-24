@@ -82,6 +82,6 @@
 
 ### 21 October 2021
  - 5 hours - Gathering together the other features possible
- -         - Making sure that there is justification for all of them
- -         - Making function to run all regression approaches and create table of the results
- -         - Running and saving results of the above function with the different categories of features
+           - Making sure that there is justification for all of them
+           - Making function to run all regression approaches and create table of the results
+           - Running and saving results of the above function with the different categories of features
