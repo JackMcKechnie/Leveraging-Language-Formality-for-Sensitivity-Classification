@@ -7,3 +7,7 @@ Baseline Comparisons.csv
 message_about_baselines.txt
 src/spelling_and_grammar.ipynb
 types of NNs.txt
+src/deep_learning/glove.6B.50d.txt
+src/deep_learning/glove.6B.100d.txt
+src/deep_learning/glove.6B.200d.txt
+src/deep_learning/glove.6B.300d.txt
