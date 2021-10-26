@@ -1,0 +1,37 @@
+,R Squared,Negative Mean Squared Error,Negative Mean Absolute Error,Max Error
+Linear Regression Tuned + Nothing,0.565145174,-0.549488464,-0.504211034,-2.818253875
+Ridge Regression Tuned + Nothing,0.565143274,-0.549490874,-0.504239685,-2.818436327
+Lasso Regression Tuned + Nothing,0.551932647,-0.566201654,-0.517408574,-2.839077821
+LARS Lasso Regression Tuned + Nothing,0.551914645,-0.566223654,-0.517289634,-2.836935596
+Bayesian Ridge Regression Tuned + Nothing,0.56514226,-0.549492648,-0.504274309,-2.820236937
+Stochastic Gradient Descent Regression Tuned + Nothing,0.565389816,-0.433615832,-0.447027942,-2.502970017
+Linear Regression Tuned + Nothing,0.587687401,-0.525731648,-0.497943165,-2.67711629
+Ridge Regression Tuned + Nothing,0.587688474,-0.525729966,-0.497899903,-2.677392974
+Lasso Regression Tuned + Nothing,0.574508673,-0.542452909,-0.504086739,-2.757763888
+LARS Lasso Regression Tuned + Nothing,0.574514797,-0.542445134,-0.504040496,-2.75793842
+Bayesian Ridge Regression Tuned + Nothing,0.587688904,-0.525723963,-0.497354201,-2.682275925
+Stochastic Gradient Descent Regression Tuned + Nothing,0.587825192,-0.411059141,-0.440735636,-2.360943196
+Linear Regression Tuned + Nothing,0.575550864,-0.541241766,-0.498536053,-2.649248121
+Ridge Regression Tuned + Nothing,0.575552876,-0.541238629,-0.498511836,-2.649178554
+Lasso Regression Tuned + Nothing,0.556263941,-0.565644527,-0.518350116,-2.852679923
+LARS Lasso Regression Tuned + Nothing,0.556241289,-0.565672076,-0.518423501,-2.852013403
+Bayesian Ridge Regression Tuned + Nothing,0.570390411,-0.547678096,-0.49820665,-2.767195518
+Stochastic Gradient Descent Regression Tuned + Nothing,0.570864143,-0.427900347,-0.440743475,-2.441781224
+Linear Regression Tuned + Nothing,0.587271104,-0.526102525,-0.484284653,-2.605716502
+Ridge Regression Tuned + Nothing,0.587246695,-0.526133652,-0.485764903,-2.601007336
+Lasso Regression Tuned + Nothing,0.571796105,-0.545881062,-0.493267458,-2.642771578
+LARS Lasso Regression Tuned + Nothing,0.571858459,-0.545803716,-0.492716446,-2.643488544
+Bayesian Ridge Regression Tuned + Nothing,0.587266743,-0.526107193,-0.484267938,-2.606529255
+Stochastic Gradient Descent Regression Tuned + Nothing,0.58745795,-0.411302621,-0.428913815,-2.29589553
+Linear Regression Tuned + Nothing,0.566993621,-0.5471506,-0.500304977,-2.801957828
+Ridge Regression Tuned + Nothing,0.566993266,-0.547151103,-0.500301358,-2.802152778
+Lasso Regression Tuned + Nothing,0.551925704,-0.566209581,-0.517267866,-2.837341886
+LARS Lasso Regression Tuned + Nothing,0.551907941,-0.5662321,-0.517361003,-2.837009707
+Bayesian Ridge Regression Tuned + Nothing,0.566989161,-0.547156795,-0.500062123,-2.804061656
+Stochastic Gradient Descent Regression Tuned + Nothing,0.567064026,-0.431942781,-0.444633434,-2.485266923
+Linear Regression Tuned + Nothing,0.596623809,-0.509637,-0.48578162,-2.473574354
+Ridge Regression Tuned + Nothing,0.595910075,-0.51054377,-0.486112632,-2.477901528
+Lasso Regression Tuned + Nothing,0.57989372,-0.53088882,-0.497309594,-2.626933861
+LARS Lasso Regression Tuned + Nothing,0.579960613,-0.530806066,-0.497083875,-2.629519352
+Bayesian Ridge Regression Tuned + Nothing,0.595470838,-0.511166155,-0.489481109,-2.525677172
+Stochastic Gradient Descent Regression Tuned + Nothing,0.595056098,-0.404020186,-0.434912936,-2.244879007
