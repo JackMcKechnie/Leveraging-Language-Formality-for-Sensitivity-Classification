@@ -78,11 +78,16 @@
  - 0.5 Hours - Weekly meeting
 
 ### 20 October 2021
- - 3 hours - Gathering together features categorised by lexical, scores, reading and NLP. Most done but the next ones are more difficult to collect. 
+ - 3 Hours - Gathering together features categorised by lexical, scores, reading and NLP. Most done but the next ones are more difficult to collect. 
 
 ### 21 October 2021
- - 5 hours <br>
+ - 5 Hours <br>
            - Gathering together the other features possible <br>
            - Making sure that there is justification for all of them <br>
            - Making function to run all regression approaches and create table of the results <br>
            - Running and saving results of the above function with the different categories of features <br>
+## Week 6
+
+### 25 Ocotber 2021
+ - 0.5 Hours - Weekly meeting
+ - 3 Hours - Tuning regression approaches with GridSearchCV and outputting the results in a table
