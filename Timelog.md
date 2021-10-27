@@ -88,6 +88,9 @@
            - Running and saving results of the above function with the different categories of features <br>
 ## Week 6
 
-### 25 Ocotber 2021
+### 25 October 2021
  - 0.5 Hours - Weekly meeting
  - 3 Hours - Tuning regression approaches with GridSearchCV and outputting the results in a table
+
+### 26 October 2021
+ - 6.5 Hours - Exploring Keras / Tensorflow and making first deep learning solution
