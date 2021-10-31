@@ -100,3 +100,9 @@
 
 ### 28 October 2021 
  - 1.5 Hours - Trying to improve scores on the above
+
+### 29 October 2021
+ - 0.5 Hours - Writing formal requirements
+
+### Throughout the week 
+ - Reading about things to change / add based on literature from other areas
