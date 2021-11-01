@@ -11,3 +11,4 @@ src/deep_learning/glove.6B.50d.txt
 src/deep_learning/glove.6B.100d.txt
 src/deep_learning/glove.6B.200d.txt
 src/deep_learning/glove.6B.300d.txt
+src/deep_learning/training vs testing loss.png
