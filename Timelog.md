@@ -94,3 +94,15 @@
 
 ### 26 October 2021
  - 6.5 Hours - Exploring Keras / Tensorflow and making first deep learning solution
+
+### 27 October 2021
+ - 2.5 Hours - Creating LSTM and RNN first attemps
+
+### 28 October 2021 
+ - 1.5 Hours - Trying to improve scores on the above
+
+### 29 October 2021
+ - 0.5 Hours - Writing formal requirements
+
+### Throughout the week 
+ - Reading about things to change / add based on literature from other areas
