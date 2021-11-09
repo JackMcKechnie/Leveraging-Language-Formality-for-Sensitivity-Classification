@@ -106,3 +106,18 @@
 
 ### Throughout the week 
  - Reading about things to change / add based on literature from other areas
+
+## Week 7
+
+### 3 November 2021
+ - 0.5 Hours - Weekly meeting
+ - 2.5 Hours - Getting BERT embeddings working
+
+### 5 November 2021
+ - 3 Hours - Getting BERT embeddings working with attention and writing up research questions
+
+### 6 November 2021
+ - 3 Hours - Getting BERT working using Hugging Face and using attention layer 
+ 
+### 8 November 2021
+ - Reading about side information and writing up research questions
