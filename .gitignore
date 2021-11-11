@@ -12,3 +12,13 @@ src/deep_learning/glove.6B.100d.txt
 src/deep_learning/glove.6B.200d.txt
 src/deep_learning/glove.6B.300d.txt
 src/deep_learning/training vs testing loss.png
+src/deep_learning/bert_tests/Epochs - 1 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 1 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 2 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 2 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 3 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 3 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 4 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 4 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 8 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 8 Batch Size - 64.jpeg
