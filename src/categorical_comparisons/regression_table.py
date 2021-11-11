@@ -11,7 +11,7 @@ def regression_table(data,feature_names,type):
     target = data["Formality"]
 
     # Regression setup
-    X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=1)
+    X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=5)
     cv = KFold(n_splits=10, random_state=1, shuffle=True)
     scoring = ["r2","neg_mean_squared_error","neg_median_absolute_error","max_error"]
 
@@ -54,7 +54,8 @@ def regression_table(data,feature_names,type):
 
 
     table = table.T
-    column_names = ["R Squared","Negative Mean Squared Error","Negative Mean Absolute Error","Max Error"]
+    column_names = ["R Squared","Mean Squared Error","Mean Absolute Error","Max Error"]
     table.columns = column_names
+    table = table.abs()
 
     return table
