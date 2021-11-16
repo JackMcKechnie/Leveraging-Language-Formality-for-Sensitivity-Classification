@@ -128,7 +128,9 @@
  - 0.5 Hours - Weekly meeting
 
 ### 11 November 2021
- - 1 Hour - Rerunning old tests with the same train / test split
+ - 2 Hours <br>
+              - Implementing BERT embeddings to previous models
+              - Rerunning old tests with the same train / test split
 
 ### 12 November 2021
  - 1 Hour - Rerunning old tests with the same train / test split
