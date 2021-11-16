@@ -134,8 +134,9 @@
  - 1 Hour - Rerunning old tests to with the same train / test split
 
 ### 13 November 2021 
- - 4 Hours - Reading about side information
-           - Implementing LSTM model for inclusion of side information
+ - 4 Hours <br>
+              - Reading about side information <br>
+              - Implementing LSTM model for inclusion of side information
 
 ### 15 November 2021
  - 1 Hour - Rerunning old tests to with the same train / test split
