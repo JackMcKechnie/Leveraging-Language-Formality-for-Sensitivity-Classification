@@ -121,3 +121,24 @@
  
 ### 8 November 2021
  - Reading about side information and writing up research questions
+
+## Week 8
+
+### 10 November 2021
+ - 0.5 Hours - Weekly meeting
+
+### 11 November 2021
+ - 1 Hour - Rerunning old tests to with the same train / test split
+
+### 12 November 2021
+ - 1 Hour - Rerunning old tests to with the same train / test split
+
+### 13 November 2021 
+ - 4 Hours - Reading about side information
+           - Implementing LSTM model for inclusion of side information
+
+### 15 November 2021
+ - 1 Hour - Rerunning old tests to with the same train / test split
+
+### 16 November 2021
+ - 1 Hour - Rerunning old tests to with the same train / test split
