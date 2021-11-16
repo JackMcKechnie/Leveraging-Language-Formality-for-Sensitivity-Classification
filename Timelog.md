@@ -129,7 +129,7 @@
 
 ### 11 November 2021
  - 2 Hours <br>
-              - Implementing BERT embeddings to previous models
+              - Implementing BERT embeddings to previous models <br>
               - Rerunning old tests with the same train / test split
 
 ### 12 November 2021
