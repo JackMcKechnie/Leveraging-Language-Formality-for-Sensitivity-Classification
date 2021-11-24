@@ -20,6 +20,7 @@ def regression_table(data,feature_names,type):
     # Linear regression
     lin_reg = linear_model.LinearRegression()
     lin_reg_scores = cross_validate(lin_reg, X_train, y_train, cv=cv,scoring=scoring)
+    
 
     # Ridge regression
     ridge_reg = linear_model.Ridge()
@@ -45,17 +46,24 @@ def regression_table(data,feature_names,type):
 
     table = pd.DataFrame()
 
-    table["Linear Regression + " + type] = make_scores(lin_reg_scores)
-    table["Ridge Regression + " + type] = make_scores(ridge_reg_scores)
-    table["Lasso Regression + " + type] = make_scores(lasso_reg_scores)
-    table["LARS Lasso Regression + " + type] = make_scores(lars_lasso_reg_scores)
-    table["Bayesian Ridge Regression + " + type] = make_scores(bayesian_ridge_reg_scores)
-    table["Stochastic Gradient Descent Regression + " + type] = make_scores(sgd_reg_scores)
+    table["Linear Regression + " + type + ": MSE"] = lin_reg_scores["test_neg_mean_squared_error"]
+    table["Linear Regression + " + type + ": MAE"] = lin_reg_scores["test_neg_mean_absolute_error"]
+    
+    table["Ridge Regression + " + type + ": MSE"] = ridge_reg_scores["test_neg_mean_squared_error"]
+    table["Ridge Regression + " + type + ": MAE"] = ridge_reg_scores["test_neg_mean_absolute_error"]
 
+    table["Lasso Regression + " + type + ": MSE"] = lasso_reg_scores["test_neg_mean_squared_error"]
+    table["Lasso Regression + " + type + ": MAE"] = lasso_reg_scores["test_neg_mean_absolute_error"]
 
-    table = table.T
-    column_names = ["R Squared","Mean Squared Error","Mean Absolute Error","Max Error"]
-    table.columns = column_names
-    table = table.abs()
+    table["LARS Lasso Regression + " + type + ": MSE"] = lars_lasso_reg_scores["test_neg_mean_squared_error"]
+    table["LARS Lasso Regression + " + type + ": MAE"] = lars_lasso_reg_scores["test_neg_mean_absolute_error"]
 
+    table["Bayesian Ridge Regression + " + type + ": MSE"] = bayesian_ridge_reg_scores["test_neg_mean_squared_error"]
+    table["Bayesian Ridge Regression + " + type + ": MAE"] = bayesian_ridge_reg_scores["test_neg_mean_absolute_error"]
+
+    table["SGD Regression + " + type + ": MSE"] = sgd_reg_scores["test_neg_mean_squared_error"]
+    table["SGD Regression + " + type + ": MAE"] = sgd_reg_scores["test_neg_mean_absolute_error"]
+
+    #table["Test"] = test
+    
     return table

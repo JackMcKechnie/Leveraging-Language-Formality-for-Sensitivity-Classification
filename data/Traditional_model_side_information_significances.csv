@@ -1,0 +1,25 @@
+,P-Value,Significant
+Lexical - Linear Regression,0.4507459332113354,False
+Scores - Linear Regression,0.8935170680506861,False
+Reading - Linear Regression,0.5810230957702167,False
+NLP - Linear Regression,0.991250478450634,False
+Lexical - Ridge Regression,0.45065410178096643,False
+Scores - Ridge Regression,0.9612439667443533,False
+Reading - Ridge Regression,0.5810153417198665,False
+NLP - Ridge Regression,0.9912092285955378,False
+Lexical - Lasso Regression,0.4334014080347587,False
+Scores - Lasso Regression,1.0,False
+Reading - Lasso Regression,0.702224341677024,False
+NLP - Lasso Regression,1.0,False
+Lexical - LARS Lasso Regression,1.0,False
+Scores - LARS Lasso Regression,1.0,False
+Reading - LARS Lasso Regression,1.0,False
+NLP - LARS Lasso Regression,1.0,False
+Lexical - Bayesian Ridge Regression,0.45050694011760084,False
+Scores - Bayesian Ridge Regression,0.9268117599260873,False
+Reading - Bayesian Ridge Regression,0.5842077645675121,False
+NLP - Bayesian Ridge Regression,0.9914292388953171,False
+Lexical - SGD Regression,0.806979908025911,False
+Scores - SGD Regression,0.9652238380756515,False
+Reading - SGD Regression,0.6067550474198525,False
+NLP - SGD Regression,0.4970111337706308,False
