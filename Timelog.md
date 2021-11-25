@@ -145,3 +145,17 @@
 
 ### 16 November 2021
  - 1 Hour - Rerunning old tests with the same train / test split
+
+## Week 9 
+
+### 17 November 2021
+ - 4 Hours 
+            - Weekly meeting <br>
+            - Significance testing of traditional models
+            - Rerunning 20 epochs for original side information model
+ 
+ ### 18 November 2021
+  - 1.5 Hours - Significance testing and running side model by itself
+
+### 23 November 2021
+ - 3 Hours - Significance testing and running new, simpler side model
