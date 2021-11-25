@@ -22,3 +22,7 @@ src/deep_learning/bert_tests/Epochs - 4 Batch Size - 32.jpeg
 src/deep_learning/bert_tests/Epochs - 4 Batch Size - 64.jpeg
 src/deep_learning/bert_tests/Epochs - 8 Batch Size - 32.jpeg
 src/deep_learning/bert_tests/Epochs - 8 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/pretrained.h5
+src/deep_learning/bert_tests/normalised.h5
+src/deep_learning/bert_tests/model.h5
+src/deep_learning/bert_tests/average.h5
