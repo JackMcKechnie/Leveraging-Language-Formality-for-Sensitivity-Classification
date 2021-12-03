@@ -26,3 +26,9 @@ src/deep_learning/bert_tests/pretrained.h5
 src/deep_learning/bert_tests/normalised.h5
 src/deep_learning/bert_tests/model.h5
 src/deep_learning/bert_tests/average.h5
+src/deep_learning/bert_tests/bertissimo.h5
+src/deep_learning/bert_tests/bertissimo/keras_metadata.pb
+src/deep_learning/bert_tests/bertissimo/saved_model.pb
+src/deep_learning/bert_tests/bertissimo/assets/vocab.txt
+src/deep_learning/bert_tests/bertissimo/variables/variables.data-00000-of-00001
+src/deep_learning/bert_tests/bertissimo/variables/variables.index
