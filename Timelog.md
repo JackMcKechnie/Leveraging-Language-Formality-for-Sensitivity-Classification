@@ -159,3 +159,20 @@
 
 ### 23 November 2021
  - 3 Hours - Significance testing and running new, simpler side model
+
+
+## Week 10
+
+### 24 November 2021
+ - 4 Hours 
+            - Weekly meeting <br>
+            - Significance testing of traditional models
+
+### 25 November 2021
+ - 2.5 Hours - Creating normalised, pretrained and average side information models
+
+### 29 November 2021 
+ - 1 Hour - Reading about other possible avenues to look at 
+
+### 30 November 2021
+ - 2 Hours - Creating document and trying out some intial tests on new ideas
