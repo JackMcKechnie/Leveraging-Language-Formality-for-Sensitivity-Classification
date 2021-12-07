@@ -176,3 +176,21 @@
 
 ### 30 November 2021
  - 2 Hours - Creating document and trying out some intial tests on new ideas
+
+## Week 11
+
+### 1 December 2021
+ - 1 Hour - Setting up and running BERT large with 20 epochs and early stopping
+ - 2 Hours - Reading about sensitivity classification
+
+### 2 December 2021
+ - 1 Hour - Reading about sensitivity classification
+
+### 3 December 2021
+ - 3 Hours - 'Literature review' of sensitivity classification papers
+
+### 6 December 2021
+ - 1 Hour - First attempt at text classification / Research on how to not privelege long documents
+
+### 7 December 2021
+ - 1.5 Hours - First attempt at using BERT embeddings for text classification on IMDB Movie Review dataset 
