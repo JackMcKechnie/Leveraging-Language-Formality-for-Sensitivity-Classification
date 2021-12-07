@@ -188,6 +188,7 @@
 
 ### 3 December 2021
  - 3 Hours - 'Literature review' of sensitivity classification papers
+ - 2 Hours - Sorting out saving the previous best model
 
 ### 6 December 2021
  - 1 Hour - First attempt at text classification / Research on how to not privelege long documents
