@@ -49,3 +49,14 @@ src/deep_learning/bertissimo/assets/vocab.txt
 src/deep_learning/bertissimo/variables/variables.data-00000-of-00001
 src/deep_learning/bertissimo/variables/variables.index
 src/sensitivity_classification/aclImdb_v1.tar.gz
+src/sensitivity_classification/1.csv
+src/sensitivity_classification/2.csv
+src/sensitivity_classification/3.csv
+src/sensitivity_classification/4.csv
+src/sensitivity_classification/5.csv
+src/sensitivity_classification/6.csv
+src/sensitivity_classification/7.csv
+src/sensitivity_classification/8.csv
+src/sensitivity_classification/9.csv
+src/sensitivity_classification/longformer-base-4096/config.json
+src/sensitivity_classification/longformer-base-4096/pytorch_model.bin
