@@ -195,3 +195,25 @@
 
 ### 7 December 2021
  - 1.5 Hours - First attempt at using BERT embeddings for text classification on IMDB Movie Review dataset 
+
+## Week 12
+
+### 8 December 2021
+ - 0.5 Hours - Weekly meeting
+ - 5.5 Hours - Creating SVM TF-IDF baseline and attempting GLOVE embeddings LSTM model 
+
+### 9 December 2021
+ - 6 Hours - GLOVE embeddings LSTM model and Longformer reading / attempt
+
+### 10 December 2021
+- 7 Hours - Longformer attempt and BERT chunking attempt
+
+### 13 December 2021
+- 4 Hours - BERT chunking and BERT start and end truncated attempt
+- 2 Hours - Status report
+
+### 14 December 2021
+ - 3 Hours - Redoing BERT start and end truncated with AdamW optimiser 
+ - 0.5 Hours - Status report
+ - 2 Hours - Longformer attempt 2 (Batch size 1)
+ - 0.5 Hours Status report
